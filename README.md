@@ -13,5 +13,5 @@ PWM Compatible – Enables smooth speed control.
 Simple GPIO Logic – Easy to set motor direction.
 Built-in Protection – Prevents overheating & overcurrent issues.
 
-## By using STM32 timers for PWM and GPIO control, I achieved smooth and precise motor movement. This project is a great way to explore embedded systems, motor control, and STM32 programming.
+### By using STM32 timers for PWM and GPIO control, I achieved smooth and precise motor movement. This project is a great way to explore embedded systems, motor control, and STM32 programming.
 
